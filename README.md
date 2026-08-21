@@ -1,93 +1,111 @@
-# 👋 Hi, I'm Sahir Khan
+<div align="center">
+  <h1 align="center">👋 Hi, I'm Sahir Khan</h1>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Applications;Clean+UI+%2B+Robust+Backend;Passionate+Problem+Solver" alt="Typing SVG" />
+    </a>
+  </p>
 
-### Full-Stack Developer | MERN Stack
-
-I build full-stack, production-ready web applications with the **MERN stack** — focused on clean UI, practical features, and solving real-world problems end to end (frontend, backend, and database).
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sahirkhan28&label=Profile%20Views&color=0e75b6&style=flat-square" alt="visitor counter"/>
+  </p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 About Me
 
-### 💼 Job Portal
-A full-stack job portal connecting job seekers and employers, with authentication, job listing management, and application tracking.
-**Tech:** React • Node.js • Express • MongoDB • JWT
-🔗 [Live Demo](https://job-portalmern.netlify.app)
-
-### 🏥 MediCare — Hospital Management System
-A hospital management platform for handling patients, doctors, appointments, and daily operations through a clean, role-based interface.
-**Tech:** React • Node.js • Express • MongoDB
-
-### 🎨 Portfolio Builder
-A platform where users can create and publish professional portfolios using customizable templates.
-**Tech:** React • Tailwind CSS • Node.js • Express • MongoDB
-
-### ✈️ Smart Trip Planner
-A travel planning platform for building itineraries, organizing trips, and tracking travel expenses in one place.
-**Tech:** React • Node.js • Express • MongoDB
-
-### 🛒 E-Commerce Website
-A responsive e-commerce frontend focused on clean UI, product browsing, and a smooth shopping experience.
-**Tech:** React • JavaScript • CSS
-
-> 💡 Live demo links for MediCare, Portfolio Builder, Smart Trip Planner, and the E-Commerce site are on the way — check the pinned repos for source code.
+- 💻 **Full-Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 🎯 Focused on building scalable, production-ready applications with intuitive UI and clean RESTful APIs.
+- ⚙️ **Currently focused on:** Advanced backend architecture, database optimization, and cloud deployment (Docker/AWS basics).
+- 💬 **Ask me about:** React state management, Express middleware, authentication (JWT/OAuth), and MongoDB schema design.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| Area | Technologies & Tools |
+|---|---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💼 Job Portal Platform</h3>
+      <p>A full-stack recruitment platform connecting job seekers and employers with secure auth, job listing management, and application pipelines.</p>
+      <p><b>Tech:</b> React, Node.js, Express, MongoDB, JWT, Tailwind</p>
+      <p align="center">
+        <a href="https://job-portalmern.netlify.app" target="_blank">🌐 Live Demo</a> •
+        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 MediCare (Hospital Management)</h3>
+      <p>A role-based management platform for handling patient records, doctor allocations, appointment bookings, and daily clinic operations.</p>
+      <p><b>Tech:</b> React, Node.js, Express, MongoDB, REST API</p>
+      <p align="center">
+        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Portfolio Builder</h3>
+      <p>A web application allowing developers and creators to design, customize, and publish professional portfolios seamlessly.</p>
+      <p><b>Tech:</b> React, Tailwind CSS, Node.js, Express, MongoDB</p>
+      <p align="center">
+        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✈️ Smart Trip Planner</h3>
+      <p>An all-in-one travel planning application for building day-by-day itineraries, organizing destinations, and tracking trip expenses.</p>
+      <p><b>Tech:</b> React, Node.js, Express, MongoDB</p>
+      <p align="center">
+        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahirkhan28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Sahir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahirkhan28&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sahirkhan28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahirkhan28)
+
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahirkhan28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahirkhan28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahirkhan28&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Currently
-
-- Improving backend architecture and REST API design
-- Learning cloud deployment and DevOps basics
-- Building full-stack projects that solve real-world problems
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/sahirkhan28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <i>⭐️ From <a href="https://github.com/sahirkhan28">Sahir Khan</a> — Open to Full-Stack Opportunities!</i>
 </p>
