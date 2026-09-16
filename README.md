@@ -45,7 +45,10 @@
       <h3 align="center">💼 Job Portal Platform</h3>
       <p>A full-stack recruitment platform connecting job seekers and employers with secure auth, job listing management, and application pipelines.</p>
       <p><b>Tech:</b> React, Node.js, Express, MongoDB, JWT, Tailwind</p>
-     
+      <p align="center">
+        <a href="https://job-portalmern.netlify.app" target="_blank">🌐 Live Demo</a> •
+        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🏥 MediCare (Hospital Management)</h3>
