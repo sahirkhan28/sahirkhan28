@@ -55,7 +55,7 @@
       <p>A role-based management platform for handling patient records, doctor allocations, appointment bookings, and daily clinic operations.</p>
       <p><b>Tech:</b> React, Node.js, Express, MongoDB, REST API</p>
       <p align="center">
-        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+        <!-- <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a> -->
       </p>
     </td>
   </tr>
@@ -65,7 +65,7 @@
       <p>A web application allowing developers and creators to design, customize, and publish professional portfolios seamlessly.</p>
       <p><b>Tech:</b> React, Tailwind CSS, Node.js, Express, MongoDB</p>
       <p align="center">
-        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+        <!-- <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a> -->
       </p>
     </td>
     <td width="50%">
@@ -73,7 +73,7 @@
       <p>An all-in-one travel planning application for building day-by-day itineraries, organizing destinations, and tracking trip expenses.</p>
       <p><b>Tech:</b> React, Node.js, Express, MongoDB</p>
       <p align="center">
-        <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a>
+        <!-- <a href="https://github.com/sahirkhan28" target="_blank">💻 Source Code</a> -->
       </p>
     </td>
   </tr>
@@ -96,13 +96,13 @@
 
 ### 🌐 Connect With Me
 
-<div align="center">
+<!-- <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahirkhan28)
 
-</div>
+</div> -->
 
 ---
 
